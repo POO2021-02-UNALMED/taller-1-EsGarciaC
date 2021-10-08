@@ -1,0 +1,1 @@
+Ya si pude hacer commit, y antes no pude ya que las carpetas vacias no las detecta GitHub Desktop como cambios.
