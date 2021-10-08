@@ -4,3 +4,6 @@ Aspiraciones: Aprender más conceptos de POO. Lo que yo aprenda aquí de Java pu
 utilizarlo en C#, puesto que ya lo he utilizado y lo sigo utilizando y no sabía que eran tan parecidos
 en tantas cosas.
 Ya si pude hacer commit, y antes no pude ya que las carpetas vacias no las detecta GitHub Desktop como cambios.
+
+La respuesta: Es importante tener cuidado al modificar dos archivos al mismo tiempo porque puede crear inconsistencias en los archivos,
+lo que puede llevar a horas de trabajo enteras perdidas o a adicionar más horas de trabajo por tener que revisar manualmente la inconsistencia.
