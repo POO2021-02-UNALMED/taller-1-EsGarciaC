@@ -3,3 +3,4 @@ Edad: 20 años
 Aspiraciones: Aprender más conceptos de POO. Lo que yo aprenda aquí de Java puedo
 utilizarlo en C#, puesto que ya lo he utilizado y lo sigo utilizando y no sabía que eran tan parecidos
 en tantas cosas.
+Ya si pude hacer commit, y antes no pude ya que las carpetas vacias no las detecta GitHub Desktop como cambios.
