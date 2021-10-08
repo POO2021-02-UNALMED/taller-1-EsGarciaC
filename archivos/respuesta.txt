@@ -1,1 +1,1 @@
-Ninguno en particular. La carpeta no aparece apenas es creada.
+Ninguno en particular. La carpeta no aparece apenas es creada, necesita archivos dentro con cambios.
